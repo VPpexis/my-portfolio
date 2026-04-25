@@ -13,6 +13,9 @@
 # testing
 /coverage
 
+# sanity
+dist/
+
 # next.js
 /.next/
 /out/
