@@ -45,7 +45,15 @@ A modern, high-performance personal portfolio built from the ground up using a h
     ```bash
     pnpm dev
     ```
-    
+
+## 🌟 Objectives
+
+- **Showcase My Work:** A visually appealing portfolio to highlight my projects and skills.
+- **Content Management:** A user-friendly CMS for easy content updates without code changes.
+- **Performance:** A fast, responsive website optimized for all devices.
+- **Scalability:** A flexible architecture that can grow with my needs.
+- **DevOps Efficiency:** A streamlined development workflow with GitHub Actions for CI/CD.
+
 Open [http://localhost:3000](http://localhost:3000) to view the portfolio and [http://localhost:3000/studio](http://localhost:3000/studio) to access the Sanity CMS.
 
 ## 📂 Project Structure
@@ -54,3 +62,6 @@ Open [http://localhost:3000](http://localhost:3000) to view the portfolio and [h
 - `/components`: shadcn/ui components and custom design elements.
 - `/sanity`: Sanity configuration and content schemas.
 - `/lib`: Utility functions, inclding the shadcn `cn` helper.
+
+## 🏆 Achievements
+- Implemented Linting on Local Machine using ESLint and Husky with a custom configuration to enforce code quality and consistency.
