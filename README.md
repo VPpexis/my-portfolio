@@ -65,3 +65,4 @@ Open [http://localhost:3000](http://localhost:3000) to view the portfolio and [h
 
 ## 🏆 Achievements
 - Implemented Linting on Local Machine using ESLint and Husky with a custom configuration to enforce code quality and consistency.
+- Created dockerfile and dockcker-compose for local development containerization.
